@@ -1,0 +1,25 @@
+.time-tracker-container {
+  margin: 10px 0 0 0;
+  position: absolute;
+  top: 10;
+  left: 10;
+}
+
+.idle-user {
+  padding: 10px;
+  margin: 10px 0 0 0;
+  background-color: #fdb913;
+  box-shadow: 0 12px 24px 6px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.time-tracker {
+  padding: 10px;
+  margin: 10px 0 0 0;
+  background-color: #2db32d;
+  box-shadow: 0 12px 24px 6px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+}
